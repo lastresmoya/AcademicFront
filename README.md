@@ -1,1 +1,1 @@
-# AcademicFront 2
+# AcademicFront 3
